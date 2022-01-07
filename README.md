@@ -10,9 +10,6 @@ AngularViaCep
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Pereira-Araujo/users-api/blob/main/LICENSE.md)
 
-## project's goal
-
-Have a personal project base to test features and small programs in angular
 
 ## Next steps:
 
