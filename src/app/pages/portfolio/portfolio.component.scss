@@ -1,0 +1,51 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+mat-sidenav {
+  margin: 16px;
+  width: 200px;
+  border-right: none;
+  background: #0a0a23;
+  color: white;
+  border-radius: 10px;
+  padding: 16px;
+  text-align: center;
+  font-family: Roboto Mono;
+}
+
+mat-sidenav-container {
+  height: 94%;
+}
+
+.menu-button {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: 1rem;
+
+  mat-icon {
+    margin-right: 8px;
+  }
+}
+
+.avatar {
+  margin-top: 16px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+mat-card {
+  margin: 2%;
+  width: 60%;
+
+  font-family: Roboto Mono;
+}
+
+.line-card-one {
+  display: flex;
+}
+
+// Responsive codes
