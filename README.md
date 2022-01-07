@@ -1,27 +1,53 @@
 # AngularDynamicInput
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
+Feature created with study purpose.
 
-## Development server
+Using Angular reactive forms and FormArray, you can make dynamic inputs in your project
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Teste the feature online [here](https://samucatezu.github.io/AngularDynamicInput/testfield)
 
-## Code scaffolding
+AngularViaCep
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Pereira-Araujo/users-api/blob/main/LICENSE.md)
 
-## Build
+## project's goal
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Have a personal project base to test features and small programs in angular
 
-## Running unit tests
+## Next steps:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- :ok: create project
+- :ok: add the base
+- :ok: add buttons with links to the project
 
-## Running end-to-end tests
+### what i used
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+- [Angular Material](https://material.angular.io/)
 
-## Further help
+### tutorials that helped me:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- [Dynamic inputs](https://stackblitz.com/edit/dynamic-reactive-form-angular-army?file=src%2Fapp%2Fapp.component.css)
+
+### Instruction to run the project
+
+Obs: This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
+
+Install [NodeJs](https://nodejs.org/en/)
+
+at the terminal, clone the project:
+
+```
+git clone
+```
+
+install dependencies:
+
+```
+npm install
+```
+
+run the application:
+
+```
+npm start
+```
