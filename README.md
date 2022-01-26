@@ -4,7 +4,7 @@ Feature created with study purpose.
 
 Using Angular reactive forms and FormArray, you can make dynamic inputs in your project
 
-Teste the feature online [here](https://samucatezu.github.io/AngularDynamicInput/testfield)
+Teste the feature online [here](https://samucatezu.github.io/AngularDynamicInput/)
 
 AngularViaCep
 
